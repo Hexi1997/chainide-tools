@@ -1,0 +1,27 @@
+{
+  "name": "chainide-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/Hexi1997/chainide-tools.git",
+  "author": "Hexi1997 <18715156450@163.com>",
+  "license": "MIT",
+  "description": "ChainIde前端工具库",
+  "browser": "dist/index.js",
+  "keywords": [
+    "toolkit",
+    "rollup",
+    "typescript",
+    "chainide"
+  ],
+  "devDependencies": {
+    "rollup": "^2.54.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.5"
+  }
+}
